@@ -1,0 +1,40 @@
+body {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-bottom: 0px;
+	font-size:27px;
+	color:#ffffff;
+	font-weight:bold;
+	line-height:150%;
+	background-image: linear-gradient(red, yellow, blue);
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+}
+form{
+	margin: 10px;
+	padding: 10px;
+}
+.ipoot_on{
+	color:#ffffff;
+	background-color:rgba(0,191,255,0.1);
+	}
+.ipoot{
+	color:#ffffff;
+}
+a:link {
+	color: #000000;
+	text-decoration:none;
+}
+a:visited {
+	color: #ffffff;
+	text-decoration:none;
+}
+a:hover {
+	color: #ffffff;
+	text-decoration:none;
+}
+a:active {
+	color: #ffffff;
+	text-decoration:none;
+}
